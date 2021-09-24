@@ -1,0 +1,6 @@
+emotion	sentence
+sad	I had so much of my old heart left, as to be at first grieved by this evident dislike on the part of a creature which had once so loved me.
+sad	And now was I indeed wretched beyond the wretchedness of mere Humanity.
+fear	This hideous murder accomplished, I set myself forthwith, and with entire deliberation, to the task of concealing the body.
+fear	My next step was to look for the beast which had been the cause of so much wretchedness; for I had, at length, firmly resolved to put it to death.
+happy	I was especially fond of animals, and was indulged by my parents with a great variety of pets.
